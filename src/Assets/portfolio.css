@@ -1,0 +1,15 @@
+.project-container{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+}
+
+.project-card{
+    margin-left: -50%;
+    transform: translateX(50%);
+}
+
+.project-card img{
+    width: 30vw;
+    height: 30vw;
+}

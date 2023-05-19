@@ -1,0 +1,23 @@
+.info{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(64, 64, 64, .8);
+    width: 30%;
+    border-radius: 9px;
+    padding: 5px;
+    padding-bottom: 10px;
+    color: white;
+}
+.github{
+    color: rgb(141, 141, 251);
+}
+
+.info{
+    position: absolute;
+    z-index: 1;
+    bottom: 2vw;
+}
+
+.project{
+    margin-bottom: 2vw;
+}
